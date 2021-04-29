@@ -1,0 +1,108 @@
+body {
+    background-image: url("watercolor.jpg");
+    background-size: cover;
+}
+
+p{
+    font-family: 'Garamond', Geneva, Verdana;
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(44, 35, 87);
+}
+
+.navbar {
+    font-size: 130%;
+    background-color: #50458d;
+    color:rgb(255, 255, 255);
+    font-family: 'Girassol', cursive;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+header {
+    font-family: 'Rye', cursive;
+    font-size: 320%;
+    text-align: center;
+    background-color: rgb(144, 131, 201);
+    color:rgb(244, 246, 253);
+    padding-top: 6%;
+    padding-bottom: 7%;
+    margin-bottom: 8%;
+    
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-responsive {
+    display:block;
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    font-size: 140%;
+}
+
+.navbar-brand:hover {
+    color: rgb(255, 255, 255);
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+.mt-5 {
+    color: white;
+    font-family: 'Averia Serif Libre', cursive;
+    font-size: 50%;
+}
+
+.col {
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+a {
+    color:rgb(70, 59, 134);
+    text-decoration: none;
+}
+
+a:hover {
+        color:rgb(70, 59, 134);
+        text-decoration: none;
+}
+
+.col {
+    margin-bottom: 7%;
+}
+.card-title {
+    color:rgb(34, 50, 129);
+}
+.card-body {
+    background-color: rgb(232, 231, 255); 
+    opacity: 0.93;
+}
+
+h5 {
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+
+footer {
+    background-color: #50458d;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 8%;
+    padding: 3% 0 3% 0;
+    font-family: 'Girassol', cursive;
+    font-size: 130%;
+}

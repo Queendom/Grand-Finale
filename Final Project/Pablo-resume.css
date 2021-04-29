@@ -1,0 +1,134 @@
+body 
+    {background-color: rgb(61, 76, 158);}
+section 
+    {background-color: rgb(142, 158, 241);
+    opacity: 0.93;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 2%;
+    border-radius: 25px;
+    }
+
+h1, h2 {
+    font-family: 'Georgia', Geneva, Verdana;
+}
+
+h1 {
+    text-shadow: 15px 15px 8px #0b0c49;
+    font-size: 250%;
+}
+h3 
+    {font-family: Segoe UI, Tahoma, Geneva, Verdana, 'sans-serif';}
+
+p {
+    font-family: 'Garamond', Geneva, Verdana;
+    color:rgb(13, 27, 87);
+}
+
+img  {
+    float: left;
+    padding: 5%;
+} 
+
+header {
+    text-align: center;
+    color: white;
+    font-size: 120%;
+    margin-bottom: 5%;
+}
+
+#employment {
+    background-color: rgb(110, 136, 248);
+}
+
+#education {
+    background-color: rgb(89, 119, 252);
+}
+nav {
+    background-color: rgb(142, 159, 236);
+    text-align: center;
+    border-radius: 25px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.dropdown-content a:hover {background-color: rgb(49, 77, 202);}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.button {
+    background-color: rgb(142, 159, 236);
+    color: white;
+    border: none;
+    font-family: 'Garamond', Geneva, Verdana;
+    cursor: pointer;
+    font-size: 150%;
+    letter-spacing: 5px;
+}
+.dropdown {
+    display: inline;
+    position: relative;
+  }
+
+.dropdown-content {
+    text-decoration: none;
+    position: absolute;
+    display: none;
+    font-size: 70%;
+    background-color: rgb(89, 118, 250);
+    border-radius: 25px;
+    z-index: 1;
+    margin-left: 350%;
+ 
+}
+
+.headertext {
+    font-family: 'Courier New';
+    margin-left: 10%;
+    width: 80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color:white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-bottom: 5%;
+    font-size: 150%;
+}
+
+#feature {
+    padding: 5%;
+    text-align: right;
+}
+
+h3 {
+    font-weight: bold; 
+    font-size: 130%;
+    color:rgb(12, 25, 82);
+}
+
+a:link {
+    color: white; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    margin-top: 3%;
+}
+
+ul li {
+    display: inline;
+    list-style-type: none;
+    position: relative;  
+    font-size: 130%;
+    letter-spacing: 5px;
+    
+}
